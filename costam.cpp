@@ -2,7 +2,7 @@
 #include <cstdlib>
 #include "costam.h"
 using namespace std;
-
+// dodałem koment
 void Gra::przejdz_dalej()
 {
 	char tn;
