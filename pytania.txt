@@ -1,0 +1,4 @@
+pierwsza linia do wczytania
+druga linia do wczytania
+trzecia linia do wczytania
+czwarta co wczytać się nie da.
