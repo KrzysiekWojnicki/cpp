@@ -23,17 +23,17 @@ void Gra::przejdz_dalej()
 	{
 		cout<<"wybraleś nie"<<endl;
 		system("sleep 1");
-		Gra1::dowidzenia();
+//		Gra1::dowidzenia();
 
 	}
 }
 
-void Gra::dowidzenia()
+/*void Gra::dowidzenia()
 {
 	system("clear");
 	cout<<"pożegnanie"<<endl;
 }
-
+*/
 
 void Gra::tab()
 {

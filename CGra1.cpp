@@ -24,10 +24,11 @@ void Gra1::wczytaj()
 	cout<<drugi<<endl;
 	cout<<trzeci<<endl;
 
-	Gra1::dowidzenia();
+	// Gra1::dowidzenia();
+	
 }
 
-void Gra1::dowidzenia()
+/*
 {
 	cout<<"najwyrażniej nie można ot tak sobie\nprzywoływoś funkcji innej klasy\n do widzienia."<<endl;
-}
+}*/
